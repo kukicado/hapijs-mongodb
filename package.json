@@ -1,0 +1,17 @@
+{
+  "name": "hapi-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "@hapi/joi": "^17.1.1",
+    "hapi-mongodb": "^9.0.0",
+    "joi-objectid": "^3.0.1"
+  }
+}
